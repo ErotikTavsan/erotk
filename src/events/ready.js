@@ -3,5 +3,5 @@ module.exports = {
 	name: 'ready',
 	once: true,
 	execute(client) {
-  client.user.setActivity("🎵 | Raven Music")
+  client.user.setActivity("🎵 | Tavşan Music")
 }};
